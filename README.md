@@ -1,4 +1,4 @@
-# pandas-challenge
+# Snapshot of a school district
 Pandas 
 ### District Summary
 
