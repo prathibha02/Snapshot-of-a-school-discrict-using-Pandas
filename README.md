@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas - Assignment #4
+Pandas 
 ### District Summary
 
 Create a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
